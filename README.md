@@ -3,4 +3,4 @@ The code of my 2017 sumo robot, using an arduino nano, two HC-SR04 ultrasonic se
 
 ![Photo of the robot](arduino-sumo-robot.jpg)
 
-Honestly the robot didn't do that well in the competition because it was too light, but the electronics and the programming were pretty good. 
+Honestly the robot didn't do that well in the competition because it was too light, but the electronics and programming were pretty good.
