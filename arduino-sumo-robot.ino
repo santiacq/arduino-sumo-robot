@@ -99,7 +99,7 @@ void loop() {
       digitalWrite(IN3, LOW);
       digitalWrite(IN4, HIGH);    
     }
-    else if (distance2 < 40) { // If distance from front sensor is less than 50, go BACKWARD
+    else if (distance2 < 40) { // If distance from back sensor is less than 50, go BACKWARD
       digitalWrite(IN1, HIGH);
       digitalWrite(IN2, LOW);
       digitalWrite(IN3, HIGH);
